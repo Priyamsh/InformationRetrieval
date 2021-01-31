@@ -1,5 +1,7 @@
 README FOR test_queries.py
 
+Group Project done by : Priyam Shah, Krupa Bhayani, Ansh Shah, Adit Maniar, Pratyush Khare
+
 This python file uses the inverted index data structure already formed by the previous component of out code. The files used include
 	--( indt.json          --> Format { word  : {docid : tf}} )
 	--( indwot.json--> Format { word  : {docid : tf}} )
